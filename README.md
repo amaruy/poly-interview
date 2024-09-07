@@ -82,6 +82,4 @@ This script will visualize the learned filter and the Sobel kernel side by side,
 7. **Visualization**: Various scripts are provided to visualize the Sobel operator, test results, and compare the learned filter with the actual Sobel kernel.
 
 These design choices aim to create a flexible, efficient, and interpretable implementation of a Sobel filter neural network.
-```
 
-This README provides a comprehensive guide on how to set up the environment, run the various scripts, and understand the design considerations behind the implementation. It covers all the main aspects of your project, including the sample Sobel operator visualization, training, testing, and filter comparison.
