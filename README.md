@@ -1,6 +1,3 @@
-Certainly! I'll create a new README file based on your instructions and the code you've provided. Here's a draft of the README:
-
-```markdown:README.md
 # Sobel Filter Neural Network
 
 This project implements a neural network that learns to apply a Sobel filter to images. The network is trained on a dataset of input images and their corresponding Sobel-filtered outputs.
@@ -9,17 +6,11 @@ This project implements a neural network that learns to apply a Sobel filter to 
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone (https://github.com/amaruy/poly-interview.git)
+   cd poly-interview/ML_Engineer
    ```
 
-2. Create a virtual environment (optional but recommended):
-   ```
-   python -m venv ml_env
-   source ml_env/bin/activate  # On Windows, use `ml_env\Scripts\activate`
-   ```
-
-3. Install the required packages:
+2. Install the required packages:
    ```
    pip install torch torchvision matplotlib opencv-python numpy
    ```
