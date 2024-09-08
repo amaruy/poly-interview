@@ -6,7 +6,7 @@ This project implements a neural network that learns to apply a Sobel filter to 
 
 1. Clone this repository:
    ```
-   git clone (https://github.com/amaruy/poly-interview.git)
+   git clone https://github.com/amaruy/poly-interview.git
    cd poly-interview/ML_Engineer
    ```
 
